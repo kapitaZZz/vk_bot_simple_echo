@@ -1,0 +1,37 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/help"
+        },
+        "color": "primary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "/some_action"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/clear"
+        },
+        "color": "negative"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "/main"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}
